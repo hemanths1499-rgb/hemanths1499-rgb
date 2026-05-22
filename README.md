@@ -21,7 +21,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Data Engineer** with **5+ years of experience** designing and building enterprise-grade data solutions across **Healthcare**, **Banking**, and **Analytics** domains. I specialize in architecting scalable, cloud-native data platforms that turn raw data into actionable intelligence.
+I'm a **Data Engineer** with **5 years of experience** designing and building enterprise-grade data solutions across **Healthcare**, **Banking**, and **Analytics** domains. I specialize in architecting scalable, cloud-native data platforms that turn raw data into actionable intelligence.
 
 - 🔭 &nbsp;Building robust end-to-end data pipelines using **Apache Spark**, **Kafka**, and **Airflow** to process millions of records in real-time and batch workflows
 - ☁️ &nbsp;Deep expertise in **cloud data platforms** — including **AWS**, **Azure**, **Snowflake**, and **Databricks** — designing cost-efficient, high-performance lakehouses and warehouses
